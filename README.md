@@ -18,3 +18,10 @@ We started with the first two baseline approaches, but noticed modest performanc
 
 ## Evaluation
 We evaluated model performance using Top-1 and Top-5 accuracy, F1 score, and confusion matrices. These metrics allowed us to assess both overall and per-class performance and identify common misclassification patterns. Full results and visualizations of these metrics can be found in our notebook.
+
+## FINAL Results
+Top-1 Accuracy: **96.56%**
+
+Top-5 Accuracy: **99.97%**
+
+F1 Score: **95.82%**
